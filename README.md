@@ -1,26 +1,180 @@
-# Hi 👋, I'm Monir Uddin
+<!-- =========================
+     HEADER
+========================= -->
 
-### A passionate full stack developer from Bangladesh
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/moniruddin-2199&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/moniruddin-2199" /> </p>
+# 👋 Hi, I'm Monir Uddin
 
-- 🔭 I'm currently working on **https://github.com/MonirUddin-2199/laravel-12-Inventory-Management**
+### Full Stack Developer | PHP • Laravel • JavaScript • MySQL
 
-- 🌱 I'm currently learning **Python & Django**
+Building scalable web applications, REST APIs, dashboards and business solutions.
 
-- 👯 I'm looking to collaborate on **E-commerce multi vendor projects**
-
-- 💬 Ask me about **Full Stack Dev**
-
-- 📫 How to reach me **monir.uddin.dev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/https://github.com/moniruddin-2199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/moniruddin-2199" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/monir-uddin-039572174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/monir-uddin-039572174" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61578184839129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61578184839129" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/MonirUddin-2199">
+    <img src="https://komarev.com/ghpvc/?username=MonirUddin-2199&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/MonirUddin-2199?tab=followers">
+    <img src="https://img.shields.io/github/followers/MonirUddin-2199?label=Followers&style=flat&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/MonirUddin-2199">
+    <img src="https://img.shields.io/github/stars/MonirUddin-2199?label=Stars&style=flat&logo=github" alt="GitHub Stars" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+<p>
+  <a href="https://github.com/MonirUddin-2199">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/monir-uddin-039572174">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:monir.uddin.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack Developer from Bangladesh** focused on building modern,
+maintainable and business-oriented web applications.
+
+- 💻 Full Stack Development with **PHP & Laravel**
+- 🔧 Building **RESTful APIs and backend systems**
+- 🗄️ Working with **MySQL and relational databases**
+- 🎨 Creating responsive interfaces with **Bootstrap, Tailwind CSS & JavaScript**
+- 🚀 Interested in scalable architecture and clean code
+- 📦 Building real-world business applications
+- 🌱 Currently learning **Python & Django**
+- 🤝 Interested in collaborating on **E-commerce and multi-vendor projects**
+- 🎯 Currently improving my skills for international software engineering opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,tailwind,react,vue" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs" />
+</p>
+
+### Database & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,linux,postman" />
+</p>
+
+### Design & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MonirUddin-2199&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonirUddin-2199&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MonirUddin-2199&hide_border=true&theme=transparent" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MonirUddin-2199&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/MonirUddin-2199/laravel-12-Inventory-Management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonirUddin-2199&repo=laravel-12-Inventory-Management&hide_border=true&theme=transparent" />
+</a>
+
+<a href="https://github.com/MonirUddin-2199/u-ecommerce_laravel_11-fully-dynamic-and-multi-users-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonirUddin-2199&repo=u-ecommerce_laravel_11-fully-dynamic-and-multi-users-project&hide_border=true&theme=transparent" />
+</a>
+
+</div>
+
+---
+
+## 📦 Featured Work
+
+### 🏢 Laravel Inventory Management System
+
+A full-featured inventory management application built with Laravel.
+
+**Highlights**
+
+- Product management
+- Brand & category management
+- Supplier management
+- Purchase management
+- Sales management
+- Purchase returns
+- Sales returns
+- Warehouse management
+- Stock transfers
+- Product image management
+- Authentication & authorization
+- Dashboard and reporting
+
+**Tech:** Laravel • PHP • MySQL • Bootstrap 5 • JavaScript
+
+🔗 **[View Project](https://github.com/MonirUddin-2199/laravel-12-Inventory-Management)**
+
+---
+
+### 🛒 Multi-Vendor E-Commerce Platform
+
+A dynamic e-commerce application designed around multiple users and
+e-commerce functionality.
+
+**Tech:** Laravel • PHP • MySQL • JavaScript • Bootstrap
+
+🔗 **[View Project](https://github.com/MonirUddin-2199/u-ecommerce_laravel_11-fully-dynamic-and-multi-users-project)**
+
+---
+
+# 🧠 What I'm Currently Learning
+
+```text
+Python
+   └── Django
+        ├── REST APIs
+        ├── Authentication
+        ├── Database Design
+        └── Scalable Backend Architecture
